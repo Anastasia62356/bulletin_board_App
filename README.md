@@ -1,5 +1,5 @@
 # bulletin_board_App
-# bulletin_board_App
+
 
 ## 概要
 ASP.NET を用いて作成した掲示板アプリです。  
